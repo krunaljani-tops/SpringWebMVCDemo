@@ -1,0 +1,3 @@
+com\example\model\Product.class
+com\example\dao\ProductDao.class
+com\example\controller\HomeController.class
